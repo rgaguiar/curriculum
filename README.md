@@ -34,4 +34,9 @@ Atuava no planejamento operacional (planejamento e dimensionamento da frota, pes
   *	Dimensionamento da frota, quadro de horários e de pessoal.
   *	Modelagem de previsão da demanda de passageiros e cálculo tarirário.
 
-
+* (2017/2018) <br>
+**Infomarket** - Analista de Pesquisa de Mercado  
+Planejamento amostral, análise de dados de pesquisas e apresentações em dashboards.  
+ * Planejamento amostral e acompanhamento das pesquisas de mercado.
+ * Tratar e analisar os resultados fazendo uso de métodos avançados de estatística.
+ * Desenvolver modelos estatísticos com o objetivo de fortalecer as estratégias de negócios.
