@@ -8,4 +8,8 @@ Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Fed
 
 ## Formação
 ---
+Universidade Federal do Ceará - Estatística <br>
+Concluído em 2014
 
+Centro Universitário Farias Brito - Ciência de Dados <br>
+Finalização em Novembro de 2022
