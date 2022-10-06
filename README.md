@@ -40,3 +40,22 @@ Planejamento amostral, análise de dados de pesquisas e desenvolvimento de dashb
   * Planejamento amostral e acompanhamento das pesquisas de mercado.
   * Tratar e analisar os resultados fazendo uso de métodos avançados de estatística.
   * Desenvolver modelos estatísticos com o objetivo de fortalecer as estratégias de negócios.
+
+## Conhecimentos
+### Idioma
+* Inglês suficiênte para ler e entender
+
+### Programação
+* R
+* Python
+* SQL
+
+### Banco de Dados
+* MySql
+* SQL Server
+
+### Engenharia de Dados
+* AWS S3
+* Databricks
+* Apache Beam
+* PySpark
