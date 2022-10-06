@@ -64,3 +64,7 @@ Planejamento amostral, análise de dados de pesquisas e desenvolvimento de dashb
 * Power Bi
 * Tableau
 * Cognos IBM 
+
+## Eventos como Painelista
+* Webinar Matemáticos Além Fronteiras - Angola (2022)
+
