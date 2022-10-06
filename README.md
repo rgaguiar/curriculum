@@ -11,3 +11,12 @@ Concluído em 2014
 
 Centro Universitário Farias Brito - Ciência de Dados <br>
 Finalização em Novembro de 2022
+
+USP Instituto de Ciências Matemáticas e de Computação (ICMC)/USP <br>
+Curso de Extensão em Processamento e Linguagem Natural, Ciência da Computação
+Concluído em 2021
+
+FIA Business SchoolFIA Business School - Engenharia de Dados <br>
+Concluído em 2022
+
+
