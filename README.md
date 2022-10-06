@@ -37,6 +37,6 @@ Atuava no planejamento operacional (planejamento e dimensionamento da frota, pes
 * (2017/2018) <br>
 **Infomarket Inteligência de Mercad0** - Analista de Pesquisa de Mercado  
 Planejamento amostral, análise de dados de pesquisas e desenvolvimento de dashboards.  
- * Planejamento amostral e acompanhamento das pesquisas de mercado.
- * Tratar e analisar os resultados fazendo uso de métodos avançados de estatística.
- * Desenvolver modelos estatísticos com o objetivo de fortalecer as estratégias de negócios.
+  * Planejamento amostral e acompanhamento das pesquisas de mercado.
+  * Tratar e analisar os resultados fazendo uso de métodos avançados de estatística.
+  * Desenvolver modelos estatísticos com o objetivo de fortalecer as estratégias de negócios.
