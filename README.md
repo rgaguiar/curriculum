@@ -28,7 +28,7 @@ Desenvolvimento de modelos de machine learning, garantir a aplicabilidade das re
   *	Desenvolver modelos de machine learning, bem como monitorá-los, aprimorá-los e substituí-los quando necessário. 
 
 * (2015/2017 e 2018/2021) <br>
-**Vega SA Trnasporte Urbano** - Estatístico 
+**Vega SA Trnasporte Urbano** - Estatístico  
 Atuava no planejamento operacional (planejamento e dimensionamento da frota, pesquisas de origem-destino, acompanhamento dos indicadores através das regras do cálculo tarifário).
   *	Aplicação de pesquisas operacionais (origem-destino)
   *	Dimensionamento da frota, quadro de horários e de pessoal
