@@ -32,7 +32,7 @@ Desenvolvimento de modelos de machine learning, garantir a aplicabilidade das re
 Atuava no planejamento operacional (planejamento e dimensionamento da frota, pesquisas de origem-destino, acompanhamento dos indicadores através das regras do cálculo tarifário).
   *	Aplicação de pesquisas operacionais (origem-destino).
   *	Dimensionamento da frota, quadro de horários e de pessoal.
-  *	Modelagem de previsão da demanda de passageiros e cálculo tarirário.
+  *	Modelagem de previsão da demanda de passageiros e cálculo tarifário.
 
 * (2017/2018) <br>
 **Infomarket Inteligência de Mercad0** - Analista de Pesquisa de Mercado  
