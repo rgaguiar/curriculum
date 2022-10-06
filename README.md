@@ -77,8 +77,8 @@ Planejamento amostral, análise de dados de pesquisas e desenvolvimento de dashb
 **ML Building Blocks: Services and TerminologyML Building Blocks: Services and Terminology** - Amazon Web Services (AWS) (2022)  
 **Machine Learning Essentials for Business and Technical Decision Makers** - Amazon Web Services (AWS) (2022)  
 **Machine Learning for Business Challenges** - Amazon Web Services (AWS) (2022)  
-**Process Model: CRISP-DM on the AWS Stack** - Amazon Web Services (AWS) (2022)
-**Business Cases: De dados à inteligência Artificial** - labdata FIA (2022)
-**Minicurso: Data Business of Experience** - labdata FIA (2022)
-**V International Seminar on Statistics with R** - Universidade Federal Fluminense (2022)
+**Process Model: CRISP-DM on the AWS Stack** - Amazon Web Services (AWS) (2022)  
+**Business Cases: De dados à inteligência Artificial** - labdata FIA (2022)  
+**Minicurso: Data Business of Experience** - labdata FIA (2022)  
+**V International Seminar on Statistics with R** - Universidade Federal Fluminense (2022)  
 
