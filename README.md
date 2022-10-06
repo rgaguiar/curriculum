@@ -47,7 +47,7 @@ Planejamento amostral, análise de dados de pesquisas e desenvolvimento de dashb
 
 ### Programação
 * R
-* Python (Pandas, Numpy, SciPy, Tensorflow, keras, Scikit-Learning )
+* Python (Pandas, Numpy, SciPy, Tensorflow, Keras, Scikit-Learning )
 * SQL
 
 ### Banco de Dados
