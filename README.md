@@ -43,11 +43,11 @@ Planejamento amostral, análise de dados de pesquisas e desenvolvimento de dashb
 
 ## Conhecimentos
 ### Idioma
-* Inglês suficiênte para ler e entender
+* Inglês suficiênte para ler e entender.
 
 ### Programação
 * R
-* Python (Pandas, Numpy, SciPy, tensorflow, keras, Scikit-Learning )
+* Python (Pandas, Numpy, SciPy, Tensorflow, keras, Scikit-Learning )
 * SQL
 
 ### Banco de Dados
@@ -63,4 +63,4 @@ Planejamento amostral, análise de dados de pesquisas e desenvolvimento de dashb
 ### Visualização de Dados
 * Power Bi
 * Tableau
-* 
+* Cognos IBM 
