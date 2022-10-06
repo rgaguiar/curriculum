@@ -13,7 +13,7 @@ Centro Universitário Farias Brito - Ciência de Dados <br>
 Finalização em Novembro de 2022
 
 USP Instituto de Ciências Matemáticas e de Computação (ICMC)/USP <br>
-Curso de Extensão em Processamento e Linguagem Natural, Ciência da Computação
+Curso de Extensão em Processamento e Linguagem Natural, Ciência da Computação <br>
 Concluído em 2021
 
 FIA Business School - Engenharia de Dados <br>
@@ -30,8 +30,8 @@ Desenvolvimento de modelos de machine learning, garantir a aplicabilidade das re
 * Estatístico (2015/2017 e 2018/2021) <br>
 **Vega SA Trnasporte Urbano** -
 Atuava no planejamento operacional (planejamento e dimensionamento da frota, pesquisas de origem-destino, acompanhamento dos indicadores através das regras do cálculo tarifário).
-•	Aplicação de pesquisas operacionais (origem-destino)
-•	Dimensionamento da frota, quadro de horários e de pessoal
-•	Modelagem de previsão da demanda de passageiros.
+*	Aplicação de pesquisas operacionais (origem-destino)
+*	Dimensionamento da frota, quadro de horários e de pessoal
+*	Modelagem de previsão da demanda de passageiros.
 
 
