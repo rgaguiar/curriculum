@@ -51,6 +51,7 @@ Planejamento amostral, análise de dados de pesquisas e desenvolvimento de dashb
 * R
 * Python (Pandas, Numpy, SciPy, Tensorflow, Keras, Scikit-Learning )
 * SQL
+* SAS Guide
 
 ### Banco de Dados
 * MySql
