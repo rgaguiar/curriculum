@@ -16,7 +16,17 @@ USP Instituto de Ciências Matemáticas e de Computação (ICMC)/USP <br>
 Curso de Extensão em Processamento e Linguagem Natural, Ciência da Computação
 Concluído em 2021
 
-FIA Business SchoolFIA Business School - Engenharia de Dados <br>
+FIA Business School - Engenharia de Dados <br>
 Concluído em 2022
+
+## Experência Profissional
+* (2021 -  Atual) <br>
+**Tribanco** -
+Desenvolvimento de modelos de machine learning, garantir a aplicabilidade das regras de negócios e demonstrar os resultados da operação e Gaps embasados em dados.
+*	Fornecer informações e insights para orientar a tomada de decisões.
+*	Construir análises exploratórias e construir visualização de dados.
+*	Desenvolver modelos de machine learning, bem como monitorá-los, aprimorá-los e substituí-los quando necessário. 
+
+
 
 
