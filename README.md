@@ -40,8 +40,6 @@ Planejamento amostral, análise de dados de pesquisas e desenvolvimento de dashb
   * Planejamento amostral e acompanhamento das pesquisas de mercado.
   * Tratar e analisar os resultados fazendo uso de métodos avançados de estatística.
   * Desenvolver modelos estatísticos com o objetivo de fortalecer as estratégias de negócios.
-## Eventos como Painelista
-* Webinar Matemáticos Além Fronteiras - Angola (2022)
 
 ## Conhecimentos
 ### Idioma
@@ -67,4 +65,12 @@ Planejamento amostral, análise de dados de pesquisas e desenvolvimento de dashb
 * Power Bi
 * Tableau
 * Cognos IBM 
+
+## Eventos como Painelista
+* Webinar Matemáticos Além Fronteiras - Angola (2022)
+
+## Cursos e Certificações
+
+**Git e Github - Básico e Intermediário** - Udemy  
+**Demystifying AI/ML/DLDemystifying AI/ML/DL** - Amazon Web Services (AWS)  
 
