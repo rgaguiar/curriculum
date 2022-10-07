@@ -16,7 +16,7 @@ USP Instituto de Ciências Matemáticas e de Computação (ICMC)/USP <br>
 Curso de Extensão em Processamento e Linguagem Natural, Ciência da Computação <br>
 Concluído em 2021
 
-FIA Business School - Engenharia de Dados <br>
+labdata FIA - Engenharia de Dados <br>
 Concluído em 2022
 
 ## Experência Profissional
