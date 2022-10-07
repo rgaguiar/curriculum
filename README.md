@@ -9,15 +9,15 @@ Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Fed
 Universidade Federal do Ceará - Estatística <br>
 Concluído em 2014
 
-Centro Universitário Farias Brito - Ciência de Dados <br>
-Finalização em Novembro de 2022
-
 USP Instituto de Ciências Matemáticas e de Computação (ICMC)/USP <br>
 Curso de Extensão em Processamento e Linguagem Natural, Ciência da Computação <br>
 Concluído em 2021
 
 labdata FIA - Engenharia de Dados <br>
 Concluído em 2022
+
+Centro Universitário Farias Brito - Ciência de Dados <br>
+Finalização em Novembro de 2022
 
 ## Experência Profissional
 * (2021 -  Atual) <br>
