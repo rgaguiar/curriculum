@@ -17,7 +17,7 @@ labdata FIA - Engenharia de Dados <br>
 Concluído em 2022
 
 Centro Universitário Farias Brito - Ciência de Dados <br>
-Finalização em Novembro de 2022
+Concluído em 2022
 
 ## Experência Profissional
 * (2021 -  Atual) <br>
